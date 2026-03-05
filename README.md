@@ -11,7 +11,7 @@
 
 ---
 
-> **One click. 205 pages. All saved.**
+> **One click. All saved.**
 > Opens your Kindle book, automatically advances every page, captures a clean screenshot, and stops when the last page is reached — no manual effort.
 
 ---
@@ -36,7 +36,7 @@ Kindle AutoCapture is a Chrome extension that **fully automates** capturing ever
    - Saves to `Downloads/AutoSave/`
    - Repeats for every page
 4. **Stops automatically** when end of book is detected (3 consecutive identical frames)
-5. Desktop notification confirms: *"📚 Book Complete! 205 pages saved"*
+5. Desktop notification confirms: *"📚 Book Complete! All pages saved"*
 
 ---
 
