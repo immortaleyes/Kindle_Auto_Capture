@@ -1,7 +1,10 @@
 <div align="center">
 
 # 📚 Kindle AutoCapture
-
+**Disclaimer:**
+**This project is for educational and research purposes only.
+Users are responsible for complying with Amazon Kindle's terms of service and copyright laws.
+This tool should not be used to distribute copyrighted material.**
 ### Chrome Extension — Auto-screenshot every page of your Kindle ebook
 
 [![Version](https://img.shields.io/badge/version-6.0.0-6c63ff?style=for-the-badge&logo=googlechrome)](https://github.com)
